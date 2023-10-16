@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinteriland&show_icons=true&locale=en&layout=compact" alt="vinteriland" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinteriland&show_icons=true&locale=en" alt="vinteriland" /></p>
+[comment]: <> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinteriland&show_icons=true&locale=en" alt="vinteriland" /></p>

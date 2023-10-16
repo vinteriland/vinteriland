@@ -2,7 +2,6 @@
 <h1 align="center">Hey there 👋, I'm the one and only Tript – your friendly neighborhood code conjurer! 🚀</h1>
 <h3 align="justify">I'm a tech wizard with a Bachelor's degree in Information Technology from Delhi Technological University, currently embarking on a Master's adventure in Applied Computer Science at Concordia University. My journey through the software realm includes a stint at Optum Global Solutions as a Salesforce Platform Sorcerer, where I harnessed the mystical powers of Apex to conjure and refine Salesforce components, sprinkling in a dash of coding magic to boost efficiency. But that's not all – I've dabbled in the arcane arts of data science and deep learning, even penning a spellbinding research paper on Diabetic Retinopathy detection and casting machine learning spells for tweet sentiment analysis. Fluent in the tongues of various programming languages, frameworks, and cloud enchantments, I'm your trusty companion on any software quest!</h3>
 
-<img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://www.pinterest.ca/pin/204702745549241158/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinteriland&label=Profile%20views&color=0e75b6&style=flat" alt="vinteriland" /> </p>
 
